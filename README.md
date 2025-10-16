@@ -70,3 +70,15 @@ This runbook was created to demonstrate hands-on understanding of:
 
 ## 🪪 License
 MIT License – free for educational and professional reference.
+
+## 🗓️ Project Timeline & History
+
+- **Concept & field testing** — Aug 2024 – Jun 2025  
+  Initial lab runs for imaging processes and post-install checks during on-site shifts.
+
+- **Documentation & runbook authoring** — Oct 2025  
+  Consolidated step-by-step imaging guide, post-install PowerShell steps, and pre/post checklists.
+
+- **Current state** — Ongoing  
+  Continual improvements: adding screenshots, sample logs, and packaging for quick deployment in field environments.
+
